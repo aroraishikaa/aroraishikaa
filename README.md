@@ -1,4 +1,5 @@
 <h1>Hi, I'm Ishika!<h1>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -18,4 +19,4 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aroraishikaa/aroraishikaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
