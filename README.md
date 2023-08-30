@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ishika! A Computer Science Student at King's College London<h1>
+<h1>Hi, I'm Ishika!<h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
